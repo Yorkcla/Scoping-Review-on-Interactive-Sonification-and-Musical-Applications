@@ -1,6 +1,6 @@
-# Data for a Scoping Review on Interactive Sonification and Music Applications
+# A Scoping Review on Interactive Sonification and Music Applications
 
-This repository contains data files for a systematic literature review on the intersections between interactive sonification and music. This work has been accepted for publication at ICAD 2026, with project details coming soon.
+This repository contains data files for a scoping review on musical applications in interactive sonification. This work has been accepted for publication at ICAD 2026, with project details coming soon.
 
 ## Files
 - `Primary Dataset`: Primary datasets from the selected 11 libraries.
