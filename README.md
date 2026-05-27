@@ -1,4 +1,4 @@
-# A Scoping Review on Interactive Sonification and Music Applications
+# Review on Interactive Sonification and Music Applications
 
 This repository contains data files for a scoping review on musical applications in interactive sonification. This work has been accepted for publication at ICAD 2026, with project details coming soon.
 
