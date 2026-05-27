@@ -8,10 +8,9 @@ This repository contains data files for a scoping review on musical applications
     - `Firstpool.xlsx`: Complete data pool from the initial data extraction.
     - `Secondpool.xlsx`: Complete data pool from the second data extraction.
     - `Finalpool.xlsx`: Complete data pool, serving as the final set.
-    - `Analysis.xlsx`: Table of overall analysis results (with detailed sub-group breakdowns).
     - `Extraction.xlsx`: Table detailing the overall extraction with numerical data.
     - `Relation.xlsx`: Overall process to count the thematic overlaps and a complete table. 
-- `Analysis.csv`: Viewable on GitHub for the final results
+- `Analysis.csv`: Viewable on GitHub for the final analysis results with detailed sub-group breakdowns.
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
