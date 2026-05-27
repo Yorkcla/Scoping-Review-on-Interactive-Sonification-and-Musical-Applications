@@ -3,14 +3,14 @@
 This repository contains data files for a scoping review on musical applications in interactive sonification. This work has been accepted for publication at ICAD 2026, with project details coming soon.
 
 ## Files
-- `Primary Dataset`: Primary datasets from the selected 11 libraries.
-- `Overall Files`: .xlsx files for the overall review process.
-    - `Firstpool.xlsx`: Complete data pool from the initial data extraction.
-    - `Secondpool.xlsx`: Complete data pool from the second data extraction.
-    - `Finalpool.xlsx`: Complete data pool, serving as the final set.
-    - `Extraction.xlsx`: Table detailing the overall extraction with numerical data.
-    - `Relation.xlsx`: Overall process to count the thematic overlaps and a complete table. 
-- `Analysis.csv`: Viewable on GitHub for the final analysis results with detailed sub-group breakdowns.
+- `Primary Dataset`: Primary datasets from 11 selected libraries.
+- `Overall Files`: .xlsx files used throughout the review process.
+    - `Firstpool.xlsx`: Complete data pool for title and abstract screening.
+    - `Secondpool.xlsx`: Complete data pool for full-text assessment.
+    - `Finalpool.xlsx`: Final dataset included in the review. 
+    - `Extraction.xlsx`: Table detailing overall extraction with numerical data.
+    - `Relation.xlsx`: Table showing thematic overlaps and their counts.
+- `Analysis.csv`: Final analysis results with detailed sub-group breakdowns viewable on GitHub.
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
