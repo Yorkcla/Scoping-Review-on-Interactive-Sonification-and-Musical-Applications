@@ -1,6 +1,6 @@
 # Musical Applications in Interactive Sonification
 
-This repository contains data files for a scoping review on musical applications in interactive sonification. This work has been accepted for publication at ICAD 2026, with project details coming soon.
+This repository contains data files for a scoping review on musical applications in interactive sonification. This work has been accepted for publication at [ICAD 2026](https://interactive-sonification.org/icad2026/), with project details coming soon.
 
 ## Files
 - `Primary Dataset`: Primary datasets from 11 selected libraries.
