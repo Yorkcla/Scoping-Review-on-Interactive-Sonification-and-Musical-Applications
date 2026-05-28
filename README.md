@@ -10,7 +10,7 @@ This repository contains data files for a scoping review on musical applications
     - `Finalpool.xlsx`: Final dataset included in the review. 
     - `Extraction.xlsx`: Table detailing overall extraction with numerical data.
     - `Relation.xlsx`: Table showing thematic overlaps and their counts.
-- `Analysis.csv`: Final analysis results with detailed sub-group breakdowns viewable on GitHub.
+- `Analysis.csv`: Organised analysis results with detailed sub-group breakdowns viewable on GitHub.
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
