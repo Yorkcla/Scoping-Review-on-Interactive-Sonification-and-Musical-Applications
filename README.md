@@ -4,7 +4,7 @@ This repository contains data files for a scoping review on musical applications
 
 ## Files
 - `Primary Dataset`: Primary datasets from 11 selected libraries.
-- `Overall Files`: .xlsx files used throughout the review process.
+- `Overall Files`: Working .xlsx files used throughout the review process.
     - `Firstpool.xlsx`: Complete data pool for title and abstract screening.
     - `Secondpool.xlsx`: Complete data pool for full-text assessment.
     - `Finalpool.xlsx`: Final dataset included in the review. 
